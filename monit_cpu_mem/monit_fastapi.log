@@ -1,0 +1,230 @@
+Linux 6.8.0-39-generic (note) 	08/13/2024 	_x86_64_	(8 CPU)
+
+09:01:03 PM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:01:13 PM  1000     24038    0.10    0.00    0.00    0.00    0.10     3  uvicorn
+
+09:01:03 PM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:01:13 PM  1000     24038      0.00      0.00  163104   54404   0.68  uvicorn
+
+09:01:13 PM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:01:23 PM  1000     24038   34.40    3.20    0.00    0.50   37.60     5  uvicorn
+
+09:01:13 PM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:01:23 PM  1000     24038     69.50      0.00 3114504   56708   0.71  uvicorn
+
+09:01:23 PM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:01:33 PM  1000     24038   58.20    5.40    0.00    1.00   63.60     4  uvicorn
+
+09:01:23 PM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:01:33 PM  1000     24038     41.70      0.00 3485688   58372   0.73  uvicorn
+
+09:01:33 PM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:01:43 PM  1000     24038   58.40    5.20    0.00    0.50   63.60     6  uvicorn
+
+09:01:33 PM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:01:43 PM  1000     24038     44.30      0.00 4445832   60292   0.76  uvicorn
+
+09:01:43 PM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:01:53 PM  1000     24038   56.00    5.00    0.00    0.40   61.00     5  uvicorn
+
+09:01:43 PM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:01:53 PM  1000     24038     47.00      0.00 4447208   61956   0.78  uvicorn
+
+09:01:53 PM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:02:03 PM  1000     24038   57.80    5.10    0.00    0.50   62.90     1  uvicorn
+
+09:01:53 PM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:02:03 PM  1000     24038     39.30      0.00 4448528   63620   0.80  uvicorn
+
+09:02:03 PM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:02:13 PM  1000     24038   57.30    4.90    0.00    0.50   62.20     6  uvicorn
+
+09:02:03 PM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:02:13 PM  1000     24038     24.20      0.00 4433344   64516   0.81  uvicorn
+
+09:02:13 PM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:02:23 PM  1000     24038   54.70    5.00    0.00    0.30   59.70     3  uvicorn
+
+09:02:13 PM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:02:23 PM  1000     24038     76.40      0.00 4755744   67588   0.85  uvicorn
+
+09:02:23 PM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:02:33 PM  1000     24038   55.80    4.40    0.00    0.50   60.20     0  uvicorn
+
+09:02:23 PM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:02:33 PM  1000     24038      8.70      0.00 4706580   67844   0.85  uvicorn
+
+09:02:33 PM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:02:43 PM  1000     24038   55.90    4.20    0.00    0.30   60.10     3  uvicorn
+
+09:02:33 PM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:02:43 PM  1000     24038     70.30      0.00 4700976   70660   0.89  uvicorn
+
+09:02:43 PM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:02:53 PM  1000     24038   55.00    4.00    0.00    0.10   59.00     5  uvicorn
+
+09:02:43 PM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:02:53 PM  1000     24038     31.40      0.00 4825464   71940   0.91  uvicorn
+
+09:02:53 PM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:03:03 PM  1000     24038   53.20    4.30    0.00    0.30   57.50     2  uvicorn
+
+09:02:53 PM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:03:03 PM  1000     24038     33.50      0.00 4769204   73220   0.92  uvicorn
+
+09:03:03 PM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:03:13 PM  1000     24038   55.60    4.60    0.00    0.40   60.20     2  uvicorn
+
+09:03:03 PM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:03:13 PM  1000     24038      2.50      0.00 4744568   73220   0.92  uvicorn
+
+09:03:13 PM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:03:23 PM  1000     24038   55.00    3.90    0.00    0.20   58.90     6  uvicorn
+
+09:03:13 PM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:03:23 PM  1000     24038    106.70      0.00 4700076   77316   0.97  uvicorn
+
+09:03:23 PM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:03:33 PM  1000     24038   53.70    4.10    0.00    0.10   57.80     0  uvicorn
+
+09:03:23 PM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:03:33 PM  1000     24038      0.10      0.00 4691880   77316   0.97  uvicorn
+
+09:03:33 PM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:03:43 PM  1000     24038   52.90    4.00    0.00    0.30   56.90     4  uvicorn
+
+09:03:33 PM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:03:43 PM  1000     24038      1.50      0.00 4716564   77316   0.97  uvicorn
+
+09:03:43 PM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:03:53 PM  1000     24038   54.00    4.00    0.00    0.30   58.00     4  uvicorn
+
+09:03:43 PM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:03:53 PM  1000     24038      0.80      0.00 4732988   77316   0.97  uvicorn
+
+09:03:53 PM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:04:03 PM  1000     24038   53.10    4.30    0.00    0.30   57.40     3  uvicorn
+
+09:03:53 PM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:04:03 PM  1000     24038      0.00      0.00 4732972   77316   0.97  uvicorn
+
+09:04:03 PM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:04:13 PM  1000     24038   52.20    4.10    0.00    0.10   56.30     2  uvicorn
+
+09:04:03 PM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:04:13 PM  1000     24038      1.60      0.00 4700140   77316   0.97  uvicorn
+
+09:04:13 PM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:04:23 PM  1000     24038   53.30    4.10    0.00    0.50   57.40     0  uvicorn
+
+09:04:13 PM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:04:23 PM  1000     24038      3.20      0.00 4765836   77444   0.97  uvicorn
+
+09:04:23 PM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:04:33 PM  1000     24038   53.60    4.10    0.00    0.20   57.70     0  uvicorn
+
+09:04:23 PM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:04:33 PM  1000     24038      0.60      0.00 4716564   77444   0.97  uvicorn
+
+09:04:33 PM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:04:43 PM  1000     24038   53.00    4.00    0.00    0.40   57.00     1  uvicorn
+
+09:04:33 PM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:04:43 PM  1000     24038      0.40      0.00 4724776   77444   0.97  uvicorn
+
+09:04:43 PM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:04:53 PM  1000     24038   52.80    4.00    0.00    0.20   56.80     7  uvicorn
+
+09:04:43 PM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:04:53 PM  1000     24038      6.20      0.00 4847956   77572   0.98  uvicorn
+
+09:04:53 PM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:05:03 PM  1000     24038   50.80    3.60    0.00    0.40   54.40     4  uvicorn
+
+09:04:53 PM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:05:03 PM  1000     24038      0.30      0.00 4716548   77572   0.98  uvicorn
+
+09:05:03 PM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:05:13 PM  1000     24038   50.80    3.80    0.00    0.40   54.60     6  uvicorn
+
+09:05:03 PM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:05:13 PM  1000     24038      0.10      0.00 4716564   77572   0.98  uvicorn
+
+09:05:13 PM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:05:23 PM  1000     24038   48.30    3.60    0.00    0.30   51.90     0  uvicorn
+
+09:05:13 PM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:05:23 PM  1000     24038      1.20      0.00 4741200   77572   0.98  uvicorn
+
+09:05:23 PM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:05:33 PM  1000     24038   51.30    4.10    0.00    0.40   55.40     6  uvicorn
+
+09:05:23 PM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:05:33 PM  1000     24038      0.00      0.00 4683652   77572   0.98  uvicorn
+
+09:05:33 PM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:05:43 PM  1000     24038   50.20    3.90    0.00    0.30   54.10     3  uvicorn
+
+09:05:33 PM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:05:43 PM  1000     24038      2.00      0.00 4716564   77572   0.98  uvicorn
+
+09:05:43 PM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:05:53 PM  1000     24038   48.20    3.40    0.00    0.30   51.60     2  uvicorn
+
+09:05:43 PM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:05:53 PM  1000     24038      0.00      0.00 4708288   77572   0.98  uvicorn
+
+09:05:53 PM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:06:03 PM  1000     24038   50.20    3.80    0.00    0.10   54.00     2  uvicorn
+
+09:05:53 PM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:06:03 PM  1000     24038      4.80      0.00 4774048   77572   0.98  uvicorn
+
+09:06:03 PM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:06:13 PM  1000     24038   52.00    4.20    0.00    0.30   56.20     4  uvicorn
+
+09:06:03 PM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:06:13 PM  1000     24038      3.30      0.00 4732988   77572   0.98  uvicorn
+
+09:06:13 PM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:06:23 PM  1000     24038   23.08    2.00    0.00    0.20   25.07     0  uvicorn
+
+09:06:13 PM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:06:23 PM  1000     24038      0.00      0.00 4732988   77572   0.98  uvicorn
+
+09:06:23 PM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:06:33 PM  1000     24038    0.20    0.00    0.00    0.00    0.20     0  uvicorn
+
+09:06:23 PM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:06:33 PM  1000     24038      0.00      0.00 4732988   77572   0.98  uvicorn
+
+09:06:33 PM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:06:43 PM  1000     24038    0.20    0.00    0.00    0.00    0.20     4  uvicorn
+
+09:06:33 PM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:06:43 PM  1000     24038      0.00      0.00 4732988   77572   0.98  uvicorn
+
+09:06:43 PM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:06:53 PM  1000     24038    0.20    0.10    0.00    0.00    0.30     4  uvicorn
+
+09:06:43 PM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:06:53 PM  1000     24038      0.00      0.00 4732988   77572   0.98  uvicorn
+
+09:06:53 PM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:07:03 PM  1000     24038    0.20    0.00    0.00    0.00    0.20     0  uvicorn
+
+09:06:53 PM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:07:03 PM  1000     24038      0.00      0.00 4732988   77572   0.98  uvicorn
+
+09:07:03 PM   UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:07:13 PM  1000     24038    0.30    0.00    0.00    0.00    0.30     4  uvicorn
+
+09:07:03 PM   UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:07:13 PM  1000     24038      0.00      0.00 4732988   77572   0.98  uvicorn
+
+
+Average:      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+Average:     1000     24038   43.57    3.47    0.00    0.29   47.04     -  uvicorn
+
+Average:      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+Average:     1000     24038     16.80      0.00 4501575   73085   0.92  uvicorn
