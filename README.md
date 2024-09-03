@@ -21,7 +21,7 @@ cd monit_cpu_mem_tcc
 poetry install
 ```
 
-4. Find the PID related to the running application
+4. Find the PID related to the running application:
 
 > [!IMPORTANT]
 > Before starting the CPU and memory monitoring test, remember to launch the application that will be analyzed.
