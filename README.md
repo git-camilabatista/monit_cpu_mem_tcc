@@ -33,7 +33,7 @@ htop
 5. Run the command to start the monitoring service:
 
 ```sh
-pidstat -r -u -p <PID> <log_interval> log_file_name.log
+pidstat -r -u -p <PID> <log_interval> > log_file_name.log
 ```
 
 * -r: Collect memory consumption data.
